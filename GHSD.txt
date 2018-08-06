@@ -1,11 +1,2 @@
-GHSD
-fdgh
-dfgh
-dfh
-sdf
-hsdfh
-sdh
-sghsdfhsdfgsdf
-sdfhsdhdfh
-sdfhsdhsdh
-sdfhsdfh
+Git is a distributed version control system.
+Git is free software. welcome use
