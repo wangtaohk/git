@@ -1,5 +1,5 @@
-Git is a distributed version control system.
-Git is free software. welcome use
+Git is a distributed version control software system.
+Git is free . welcome use
 dsgas
 asdg
 asdg
